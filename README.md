@@ -2,9 +2,11 @@
 
 #Cenários e Pulsos
 
-O simulador trabalha com pulsos migracionais ao longo das geraçoes. Para o nosso modelo, definimos uma população do tipo trí-hibrida, ou seja, os tracts de ancestralidade tem origem em três grandes populções, as quais são chamadas de P,Q e R. Para isso, distribuimos essas populção coexitindo ao longo de 20 gerações, sendo a geração 20 a mais antiga e 1 a mais recente. Além disso, definmos a geração 21, denomida como fundadora, pois apenas uma das populações existirá. 
+O simulador trabalha com pulsos migracionais ao longo das geraçoes. Para este modelo, foi definida uma população do tipo trí-hibrida, ou seja, os tracts de ancestralidade tem origem em três grandes populações, nas quais foram chamadas de **P**, **Q** e **R**. Para isso, distribuimos essas populções coexitindo ao longo de 20 gerações, sendo a Geração 20 a **mais antiga** e Geração 1 a **mais recente**. Além disso, definmos a geração 21, denomida como **Fundadora**, pois apenas uma das populações existirá naquele momento, no caso, a Populção P será a fundadora.
 
-Para esse modelo, teremos três pulsos migracionais, no qual cada pulso migracional acontecerá durante três gerações. As gerações escolhidas foram: 4,5 e 6 (Pulso 3); 10,11 e 12 (Pulso 2); 18,19 e 12 (Pulso 1). 
+Para esse modelo, teremos três pulsos migracionais, no qual cada pulso migracional acontecerá durante três gerações. As gerações escolhidas foram: 4, 5 e 6 (Pulso Recente); 10, 11 e 12 (Pulso Intermediário); 18, 19 e 12 (Pulso Antigo). 
+
+![imagem_pulso](https://github.com/lcsfaria/Imagens/blob/9553f288ad1f7d03ececa93b9c5eca9bcecda7b0/figura_pulsos.png)
 
 ## Para executar o Cenário I usamos o seguinte comando:
 
