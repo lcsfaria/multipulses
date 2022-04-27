@@ -3,7 +3,7 @@
 ## Cenários e Pulsos
 
 
-O simulador trabalha com pulsos migracionais ao longo do tempo. Para este modelo, utilizamos três populações(**P**, **Q** e **R**) que coexistem e interagem entre si ao longo de 20 gerações, sendo a geração 20 a **mais antiga** e geração 1 a **mais recente**. Teremos três pulsos migracionais, no qual cada um deles acontecerá durante três gerações. As gerações escolhidas foram: 4, 5 e 6 (Pulso Recente); 10, 11 e 12 (Pulso Intermediário); 18, 19 e 20 (Pulso Antigo). Dessa maneira é possível indicar em qual das gerações acontecerá um maior fluxo migracional e quanto cada uma das três populações irá contribuir.
+O simulador trabalha com pulsos migracionais ao longo do tempo. Para este modelo, utilizamos três populações(**P**, **Q** e **R**) que coexistem e interagem entre si ao longo de 20 gerações, sendo a geração 20 a **mais antiga** e geração 1 a **mais recente**. Teremos três pulsos migracionais, no qual cada um deles acontecerá durante três gerações. As gerações escolhidas foram: 4, 5 e 6 (Pulso Recente); 10, 11 e 12 (Pulso Intermediário); 18, 19 e 20 (Pulso Antigo). Dessa maneira é possível indicar em qual das gerações acontecerá um maior fluxo migracional e quanto cada uma das três populações irá contribuir. 
 
 ![imagem_pulso](https://github.com/lcsfaria/Imagens/blob/9553f288ad1f7d03ececa93b9c5eca9bcecda7b0/figura_pulsos.png)
 
