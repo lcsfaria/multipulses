@@ -29,8 +29,6 @@ No qual os parâmetros(flags) são:
 -c: número do cromossomo. Vemos o cromossomo 1 no exemplo
 -N: número efetivo de indivíduos diplóides na população
 -r: distância de recombinação em morgans
-
-
 ````
 Para entender melhor o funcionamento deveremos enxergar o código da seguinte maneira:
 ````
@@ -55,7 +53,7 @@ Para os demais cenários teremos as seguintes linhas de comandos:
 ![cenario_2](https://github.com/lcsfaria/Imagens/blob/main/cenario_2.png)
 
 ### Cenário III
->python multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.8 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
+>python multiple_pulses.py -m 0.1 0.8 0.1 0.1 0.1 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
 ![cenario_3](https://github.com/lcsfaria/Imagens/blob/main/cenario_3.png)
 
 ### Cenário IV
