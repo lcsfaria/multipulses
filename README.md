@@ -70,4 +70,4 @@ Para os demais cenários teremos as seguintes linhas de comandos:
 
 ### Cenário VII 
 >python multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
-![cenario_7](https://github.com/lcsfaria/Imagens/blob/main/cenario_7.png)
+![cenario_7](https://github.com/lcsfaria/Imagens/blob/main/cenarssio_7.png)
