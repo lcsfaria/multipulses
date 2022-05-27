@@ -18,7 +18,7 @@ Cenário I, a população Q terá um fluxo migracional de 0.8 durantes as Geraç
 
 ## Para executar o Cenário I usamos o seguinte comando:
 
-> python multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.8 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
+> python3 multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.8 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
 
 No qual os parâmetros(flags) são:
 ````
@@ -49,25 +49,25 @@ As  flags -m,-s e -T estão correlacionadas da seguinte maneira: o primeiro valo
 Para os demais cenários teremos as seguintes linhas de comandos:
 
 ### Cenário II
-> python multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.8 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
+> python3 multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.8 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
 ![cenario_2](https://github.com/lcsfaria/Imagens/blob/main/cenario_2.png)
 
 ### Cenário III
->python multiple_pulses.py -m 0.1 0.8 0.1 0.1 0.1 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
+>python3 multiple_pulses.py -m 0.1 0.8 0.1 0.1 0.1 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
 ![cenario_3](https://github.com/lcsfaria/Imagens/blob/main/cenario_3.png)
 
 ### Cenário IV
-> python multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.4 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
+> python3 multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.4 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
 ![cenario_4](https://github.com/lcsfaria/Imagens/blob/main/cenario_4.png)
 
 ### Cenário V
-> python multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.4 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
+> python3 multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.4 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
 ![cenario_5](https://github.com/lcsfaria/Imagens/blob/main/cenario_5.png)
 
 ### Cenário VI
-> python multiple_pulses.py -m 0.1 0.4 0.1 0.1 0.1 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
+> python3 multiple_pulses.py -m 0.1 0.4 0.1 0.1 0.1 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
 ![cenario_6](https://github.com/lcsfaria/Imagens/blob/main/cenario_6.png)
 
 ### Cenário VII 
->python multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
+>python3 multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
 ![cenario_7](https://github.com/lcsfaria/Imagens/blob/main/cenarssio_7.png)
