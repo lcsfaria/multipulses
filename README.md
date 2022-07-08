@@ -71,3 +71,10 @@ Para os demais cenários teremos as seguintes linhas de comandos:
 ### Cenário VII 
 >python3 multiple_pulses.py -m 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 1 -s P Q R P Q R P Q R P -T 4 5 6 11 12 13 18 19 20 21 -q 2000 -c 1 -N 10000 -r 2.84249773
 ![cenario_7](https://github.com/lcsfaria/Imagens/blob/main/cenarssio_7.png)
+
+
+# Referências
+
+KEHDY, Fernanda S. G. et al. Origin and dynamics of admixture in Brazilians and its effect on the pattern of deleterious mutations. Proceedings Of The National Academy Of Sciences, v. 112, n. 28, p. 8696-8701, 2015.
+
+LIANG, M.; NIELSEN, R. The Lengths of Admixture Tracts. Genetics, v. 197, n. 3, p. 953-967, 2014.
